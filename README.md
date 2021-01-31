@@ -1,4 +1,4 @@
-# Hi I am Naveen 👋👋
+## Hi I am Naveen 👋👋
 
 ### I am not code blodded instead I am warm blooded 😉 
 ### Intern right now 🔭
@@ -10,5 +10,5 @@
 - ⚙️ &nbsp; ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 - 🔨 &nbsp; ![VsCode](https://img.shields.io/badge/-VsCode-333333?style=flat&logo=visual-studio-code&logoColor=blue) ![Intellij IDEA](https://img.shields.io/badge/-Intellij%20IDEA-333333?style=flat&logo=intellij-idea&logoColor=ed6fac)
 
-### Social Profile
+#### Social Profile
 - [![](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/naveenkumarreddyk)
