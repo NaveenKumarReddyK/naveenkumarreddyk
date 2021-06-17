@@ -1,6 +1,6 @@
 ## Hi I am Naveen 👋👋
 
-### I am not code blodded instead I am warm blooded 😉 
+### I am not code blooded instead I am warm blooded 😉 
 ### Intern right now 🔭
 
 #### ⚒ &nbsp; Technologies I have been learning and using
